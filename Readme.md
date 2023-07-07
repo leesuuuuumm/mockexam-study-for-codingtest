@@ -33,8 +33,8 @@
   <summary>1주차</summary>
   <div markdown="1">
   
-[백준 17070 파이프 옮기기1](https://www.acmicpc.net/problem/17070) </br>
-[백준 17406 배열 돌리기 4](https://www.acmicpc.net/problem/17406)
-  
+  [1. 백준 17070 파이프 옮기기1](https://www.acmicpc.net/problem/17070)   </br>
+  [2. 백준 17406 배열 돌리기 4](https://www.acmicpc.net/problem/17406)
+
   </div>
   </details>
