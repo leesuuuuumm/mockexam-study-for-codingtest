@@ -30,21 +30,17 @@
 
 ## ✔ 문제 풀이
   <details>
-  <summary>1일차</summary>
+  <summary>1주차</summary>
   <div markdown="1">
   
+  ### 23.07.07 금요일
+    
   [1. 백준 17070 파이프 옮기기1](https://www.acmicpc.net/problem/17070)   </br>
   [2. 백준 17406 배열 돌리기 4](https://www.acmicpc.net/problem/17406)
 
-  </div>
-  </details>
-
-  <details>
-  <summary>2일차</summary>
-  <div markdown="1">
-  
+  ### 23.07.08 토요일
   [1. 백준 20165 인내의도미노장인호석](https://www.acmicpc.net/problem/20165)   </br>
   [2. 백준 21609 상어중학교](https://www.acmicpc.net/problem/21609)
-
+  
   </div>
   </details>
