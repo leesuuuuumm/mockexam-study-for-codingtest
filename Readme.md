@@ -41,6 +41,11 @@
   ### 23.07.08 토요일
   [1. 백준 20165 인내의도미노장인호석](https://www.acmicpc.net/problem/20165)   </br>
   [2. 백준 21609 상어중학교](https://www.acmicpc.net/problem/21609)
+
+  ### 23.07.09 일요일
+
+  [1. 백준 16197 두동전](https://www.acmicpc.net/problem/16197) </br>
+  [2. 벡준 3190 뱀](https://www.acmicpc.net/problem/3190)
   
   </div>
   </details>
