@@ -5,7 +5,7 @@
 </br>
 
 ## ✔ 일정
-- 매주 화요일/금요일 21시
+- 매주 수요일/금요일 21시
 - 매주 토요일/일요일 9시
 
 </br>
@@ -34,7 +34,6 @@
   <div markdown="1">
   
   ### 23.07.07 금요일
-    
   [1. 백준 17070 파이프 옮기기1](https://www.acmicpc.net/problem/17070)   </br>
   [2. 백준 17406 배열 돌리기 4](https://www.acmicpc.net/problem/17406)
 
@@ -43,9 +42,22 @@
   [2. 백준 21609 상어중학교](https://www.acmicpc.net/problem/21609)
 
   ### 23.07.09 일요일
-
   [1. 백준 16197 두동전](https://www.acmicpc.net/problem/16197) </br>
   [2. 벡준 3190 뱀](https://www.acmicpc.net/problem/3190)
-  
+
+
   </div>
   </details>
+
+   <details>
+  <summary>2주차</summary>
+  <div markdown="1">
+    
+  ### 23.07.12 수요일
+  [1. 백준 14502 연구소](https://www.acmicpc.net/problem/14502) </br>
+  [2. 벡준 2638_치즈](https://www.acmicpc.net/problem/2638)
+  
+   </div>
+  </details>
+
+  
