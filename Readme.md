@@ -56,6 +56,10 @@
   ### 23.07.12 수요일
   [1. 백준 14502 연구소](https://www.acmicpc.net/problem/14502) </br>
   [2. 벡준 2638_치즈](https://www.acmicpc.net/problem/2638)
+
+  ### 23.07.14 금요일
+  [1. 백준 17135_캐슬 디펜스](https://www.acmicpc.net/problem/17135) </br>
+  [2. SWEA_벽돌깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
   
    </div>
   </details>
