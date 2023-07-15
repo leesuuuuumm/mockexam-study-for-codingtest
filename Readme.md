@@ -60,6 +60,10 @@
   ### 23.07.14 금요일
   [1. 백준 17135_캐슬 디펜스](https://www.acmicpc.net/problem/17135) </br>
   [2. SWEA_벽돌깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
+
+  ### 23.07.15 토요일
+  [1. 백준 1956_운동](https://www.acmicpc.net/problem/1956) </br>
+  [2. SWEA_수영장](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq)
   
    </div>
   </details>
