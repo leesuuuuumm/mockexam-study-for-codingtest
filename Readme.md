@@ -64,6 +64,11 @@
   ### 23.07.15 토요일
   [1. 백준 1956_운동](https://www.acmicpc.net/problem/1956) </br>
   [2. SWEA_수영장](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq)
+
+
+  ### 23.07.16 일요일
+  [1. 백준_5427_불](https://www.acmicpc.net/problem/5427) </br>
+  [2. 백준_2573_빙산](https://www.acmicpc.net/problem/2573) 
   
    </div>
   </details>
