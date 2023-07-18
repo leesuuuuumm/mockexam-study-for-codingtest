@@ -73,4 +73,14 @@
    </div>
   </details>
 
+  <details>
+  <summary>3주차</summary>
+  <div markdown="1">
+  
+  ### 23.07.19 수요일
+  [1. 백준_17141_연구소2](https://www.acmicpc.net/problem/17141)   </br>
+  [2. SWEA_활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)
+
+  </div>
+  </details>
   
