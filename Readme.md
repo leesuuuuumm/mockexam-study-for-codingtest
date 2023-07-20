@@ -81,6 +81,10 @@
   [1. 백준_17141_연구소2](https://www.acmicpc.net/problem/17141)   </br>
   [2. SWEA_활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)
 
+  ### 23.07.21 금요일
+  [1. 백준_2206_벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) </br>
+  [2. 백준_16929_Tow Dots](https://www.acmicpc.net/problem/16929)
+
   </div>
   </details>
   
