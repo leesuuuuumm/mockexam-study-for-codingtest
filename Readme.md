@@ -101,7 +101,10 @@
   <div markdown="1">
 
   ### 4주차 특별 과제 -> 1,2,3주차 못풀었던 문제 다 풀어오기.
-  
+
+  ### 23.07.26 수요일
+  [1. 백준_4179_불!](https://www.acmicpc.net/problem/4179) </br>
+  [2. 백준_14442_벽 부수고 이동하기2](https://www.acmicpc.net/problem/14442)
 
   </div>
   </details>
