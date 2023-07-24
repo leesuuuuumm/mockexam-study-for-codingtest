@@ -102,9 +102,11 @@
 
   ### 4주차 특별 과제 -> 1, 2, 3주차 못풀었던 문제 다 풀어오기.
 
-  ### 23.07.26 수요일
+  ### 23.07.25 화요일 
+  (사정상 토요일 스터디 화요일로 대체) </br>
+  
   [1. 백준_4179_불!](https://www.acmicpc.net/problem/4179) </br>
-  [2. 백준_14442_벽 부수고 이동하기2](https://www.acmicpc.net/problem/14442)
+  [2. 백준_3055_탈출](https://www.acmicpc.net/problem/3055)
 
   </div>
   </details>
