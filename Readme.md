@@ -83,7 +83,7 @@
 
   ### 23.07.21 금요일
   [1. 백준_2206_벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) </br>
-  [2. 백준_16929_Tow Dots](https://www.acmicpc.net/problem/16929)
+  [2. 백준_16929_Two Dots](https://www.acmicpc.net/problem/16929)
 
   ### 23.07.22 토요일
   [1. 백준_16947_서울지하철2호선](https://www.acmicpc.net/problem/16947) </br>
