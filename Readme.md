@@ -83,7 +83,7 @@
 
   ### 23.07.21 금요일
   [1. 백준_2206_벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) </br>
-  [2. 백준_16929_Tow Dots](https://www.acmicpc.net/problem/16929)
+  [2. 백준_16929_Two Dots](https://www.acmicpc.net/problem/16929)
 
   ### 23.07.22 토요일
   [1. 백준_16947_서울지하철2호선](https://www.acmicpc.net/problem/16947) </br>
@@ -93,6 +93,21 @@
   ### 23.07.23 일요일
   [1. 백준_1600_말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) </br>
   [2. 백준_17836_공주님을 구해라!](https://www.acmicpc.net/problem/17836) 
+  </div>
+  </details>
+
+  <details>
+  <summary>4주차</summary>
+  <div markdown="1">
+
+  ### 4주차 특별 과제 -> 1, 2, 3주차 못풀었던 문제 다 풀어오기.
+
+  ### 23.07.25 화요일 
+  (사정상 토요일 스터디 화요일로 대체) </br>
+  
+  [1. 백준_4179_불!](https://www.acmicpc.net/problem/4179) </br>
+  [2. 백준_3055_탈출](https://www.acmicpc.net/problem/3055)
+
   </div>
   </details>
   
