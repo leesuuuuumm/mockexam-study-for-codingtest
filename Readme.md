@@ -108,6 +108,12 @@
   [1. 백준_4179_불!](https://www.acmicpc.net/problem/4179) </br>
   [2. 백준_3055_탈출](https://www.acmicpc.net/problem/3055)
 
+
+  ### 23.07.26 수요일 
+  [1. 백준_1937_욕심쟁이 판다](https://www.acmicpc.net/problem/1937) </br>
+  [2. 백준_2665_미로만들기](https://www.acmicpc.net/problem/2665)
+
+  
   </div>
   </details>
   
