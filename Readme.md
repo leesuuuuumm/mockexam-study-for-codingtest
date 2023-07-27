@@ -103,7 +103,7 @@
   ### 4주차 특별 과제 -> 1, 2, 3주차 못풀었던 문제 다 풀어오기.
 
   ### 23.07.25 화요일 
-  (사정상 토요일 스터디 화요일로 대체) </br>
+  (사정상 금요일 스터디 화요일로 대체) </br>
   
   [1. 백준 4179_불!](https://www.acmicpc.net/problem/4179) </br>
   [2. 백준 3055_탈출](https://www.acmicpc.net/problem/3055)
@@ -113,7 +113,7 @@
   [1. 백준 1937_욕심쟁이 판다](https://www.acmicpc.net/problem/1937) </br>
   [2. 백준 2665_미로만들기](https://www.acmicpc.net/problem/2665)
 
-   ### 23.07.28 금요일 
+   ### 23.07.29 토요일 
   [1. 백준 4485_녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) </br>
   [2. SWEA 등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)
   
