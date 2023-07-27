@@ -113,7 +113,7 @@
   [1. 백준 1937_욕심쟁이 판다](https://www.acmicpc.net/problem/1937) </br>
   [2. 백준 2665_미로만들기](https://www.acmicpc.net/problem/2665)
 
-   ### 23.07.27 금요일 
+   ### 23.07.28 금요일 
   [1. 백준 4485_녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) </br>
   [2. SWEA 등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)
   
