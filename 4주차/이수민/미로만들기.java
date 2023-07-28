@@ -7,7 +7,7 @@ public class Main {
 		int c;
 		int wCnt;
 
-		public Point(int r, int c, int wCnt) {
+		public Point(int r, int c, int wCnt) { 
 			this.r = r;
 			this.c = c;
 			this.wCnt = wCnt;
