@@ -118,7 +118,7 @@
   [2. SWEA 등산로 조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)
 
   ### 23.07.30 일요일 
-  [1. 백준 2234_성곽](https://www.acmicpc.net/problem/4485) </br>
+  [1. 백준 2234_성곽](https://www.acmicpc.net/problem/2234) </br>
   [2. 백준_11559_Puyo Puyo](https://www.acmicpc.net/problem/11559) 
   
   </div>
