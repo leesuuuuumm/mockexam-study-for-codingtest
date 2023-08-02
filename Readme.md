@@ -131,6 +131,10 @@
   ### 23.08.02 수요일
   [1. 백준 17471_게리맨더링](https://www.acmicpc.net/problem/17471)   </br>
   [2. 백준 17136_색종이 붙이기](https://www.acmicpc.net/problem/17136) 
+
+  ### 23.08.04 금요일
+  [1. 백준 14442_벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)   </br>
+  [2. 백준 2580_스도쿠](https://www.acmicpc.net/problem/2580) 
   
   </div>
   </details>
