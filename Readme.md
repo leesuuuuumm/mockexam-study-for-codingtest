@@ -129,7 +129,7 @@
   <div markdown="1">
   
   ### 23.08.02 수요일
-  [1. 백준 17471_게리맨더링](https://www.acmicpc.net/problem/17141)   </br>
+  [1. 백준 17471_게리맨더링](https://www.acmicpc.net/problem/17471)   </br>
   [2. 백준 17136_색종이 붙이기](https://www.acmicpc.net/problem/17136) 
   
   </div>
