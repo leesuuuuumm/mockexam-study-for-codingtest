@@ -119,8 +119,18 @@
 
   ### 23.07.30 일요일 
   [1. 백준 2234_성곽](https://www.acmicpc.net/problem/2234) </br>
-  [2. 백준_11559_Puyo Puyo](https://www.acmicpc.net/problem/11559) 
+  [2. 백준 11559_Puyo Puyo](https://www.acmicpc.net/problem/11559) 
   
   </div>
   </details>
+
+  <details>
+  <summary>5주차</summary>
+  <div markdown="1">
   
+  ### 23.08.02 수요일
+  [1. 백준 17471_게리맨더링](https://www.acmicpc.net/problem/17471)   </br>
+  [2. 백준 17136_색종이 붙이기](https://www.acmicpc.net/problem/17136) 
+  
+  </div>
+  </details>
