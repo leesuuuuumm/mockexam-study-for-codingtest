@@ -133,6 +133,9 @@
   [2. 백준 17136_색종이 붙이기](https://www.acmicpc.net/problem/17136) 
 
   ### 23.08.04 금요일
+  - 못 푼 문제 2개 풀고 업로드!!!!!!
+
+  ### 23.08.05 토요일
   [1. 백준 14442_벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)   </br>
   [2. 백준 2580_스도쿠](https://www.acmicpc.net/problem/2580) 
   
