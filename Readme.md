@@ -138,6 +138,23 @@
   ### 23.08.05 토요일
   [1. 백준 14442_벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)   </br>
   [2. 백준 2580_스도쿠](https://www.acmicpc.net/problem/2580) 
+
+  ### 23.08.06 일요일
+  - 못 풀었던 문제로 대체
+
   
   </div>
   </details>
+
+    <details>
+  <summary>5주차</summary>
+  <div markdown="1">
+
+  ### 23.08.08 화요일
+  [1. 백준 1941_소문난 칠공주](https://www.acmicpc.net/problem/1941) </br>
+  [2. 백준 1261_알고스팟](https://www.acmicpc.net/problem/1261) </br>
+
+
+  </div>
+  </details>
+
