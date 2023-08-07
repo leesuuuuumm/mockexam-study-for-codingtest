@@ -146,11 +146,11 @@
   </div>
   </details>
 
-    <details>
-  <summary>5주차</summary>
+  <details>
+  <summary>6주차</summary>
   <div markdown="1">
 
-  ### 23.08.08 화요일
+  ### 23.08.09 수요일
   [1. 백준 1941_소문난 칠공주](https://www.acmicpc.net/problem/1941) </br>
   [2. 백준 1261_알고스팟](https://www.acmicpc.net/problem/1261) </br>
 
