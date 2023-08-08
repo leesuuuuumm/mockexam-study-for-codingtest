@@ -53,7 +53,7 @@
   | 순번 | 문제집    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
   | 00 | [백준 16197_두동전](https://www.acmicpc.net/problem/16197)   | ✔ | ✔ |
-  | 01 | [벡준 3190_뱀](https://www.acmicpc.net/problem/3190)  | ✔ |  | 
+  | 01 | [벡준 3190_뱀](https://www.acmicpc.net/problem/3190)  | ✔ | ✔ | 
 
 
   </div>
@@ -67,7 +67,7 @@
   
   | 순번 | 문제집    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [백준 14502_연구소](https://www.acmicpc.net/problem/14502)  | ✔ |  |
+  | 00 | [백준 14502_연구소](https://www.acmicpc.net/problem/14502)  | ✔ | ✔ |
   | 01 | [벡준 2638_치즈](https://www.acmicpc.net/problem/2638)  | ✔ | ✔ |
 
   ### 23.07.14 금요일
