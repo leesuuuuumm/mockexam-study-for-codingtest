@@ -206,8 +206,8 @@
   
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [백준 1941_소문난 칠공주](https://www.acmicpc.net/problem/1941)  |  |  |
-  | 01 | [백준 1261_알고스팟](https://www.acmicpc.net/problem/1261)   |  |  | 
+  | 00 | [백준 1941_소문난 칠공주](https://www.acmicpc.net/problem/1941)  | ✔  |  |
+  | 01 | [백준 1261_알고스팟](https://www.acmicpc.net/problem/1261)   | ✔ |  | 
   
 
   </div>
