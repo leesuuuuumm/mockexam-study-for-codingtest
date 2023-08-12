@@ -218,6 +218,13 @@
   | 01 | [백준 1726_로봇](https://www.acmicpc.net/problem/1726)   |  |  | 
   
 
+  ### 23.08.12 토요일
+  
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [백준 5913_준규와 사과](https://www.acmicpc.net/problem/5913)  |  |  |
+  | 01 | [백준 69876_월드컵](https://www.acmicpc.net/problem/6987)   |  |  | 
+  
   </div>
   </details>
 
