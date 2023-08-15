@@ -214,7 +214,7 @@
   
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [백준 17220_마약수사대](https://www.acmicpc.net/problem/17220)  |  | ✔  |
+  | 00 | [백준 17220_마약수사대](https://www.acmicpc.net/problem/17220)  | ✔ | ✔  |
   | 01 | [백준 1726_로봇](https://www.acmicpc.net/problem/1726)   |  |  | 
   
 
