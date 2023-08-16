@@ -206,7 +206,7 @@
   
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [백준 1941_소문난 칠공주](https://www.acmicpc.net/problem/1941)  | ✔  |  |
+  | 00 | [백준 1941_소문난 칠공주](https://www.acmicpc.net/problem/1941)  | ✔  | ✔ |
   | 01 | [백준 1261_알고스팟](https://www.acmicpc.net/problem/1261)   | ✔ | ✔  | 
 
   
@@ -214,7 +214,7 @@
   
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [백준 17220_마약수사대](https://www.acmicpc.net/problem/17220)  |  | ✔  |
+  | 00 | [백준 17220_마약수사대](https://www.acmicpc.net/problem/17220)  | ✔ | ✔  |
   | 01 | [백준 1726_로봇](https://www.acmicpc.net/problem/1726)   |  |  | 
   
 
@@ -237,7 +237,12 @@
   <summary>7주차</summary>
   <div markdown="1">
 
+  ### 23.08.16 수요일
   
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [백준 18808_스티커 붙이기](https://www.acmicpc.net/problem/18808)  |   |  |
+  | 01 | [백준 16397_탈출](https://www.acmicpc.net/problem/16397)   |  |  | 
   </div>
   </details>
 
