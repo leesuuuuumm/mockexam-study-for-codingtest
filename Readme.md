@@ -241,7 +241,7 @@
   
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [백준 18808_스티커 붙이기](https://www.acmicpc.net/problem/18808)  |   |  |
+  | 00 | [백준 18808_스티커 붙이기](https://www.acmicpc.net/problem/18808)  |   | ✔ |
   | 01 | [백준 16397_탈출](https://www.acmicpc.net/problem/16397)   |  |  | 
   </div>
   </details>
