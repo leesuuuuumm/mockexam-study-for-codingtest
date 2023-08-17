@@ -60,8 +60,7 @@ public class Main {
 	}
 
 	private static void pushButton(int cur, int dist, boolean ck) {
-		if (!check(cur))
-			return;
+		if (!check(cur)) return;
 
 		if (!ck) {
 			if (cur < 100000 && cur >= 10000) {
