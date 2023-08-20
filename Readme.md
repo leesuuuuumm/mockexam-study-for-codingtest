@@ -110,7 +110,7 @@
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
   | 00 | [백준 2206_벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  | ✔ | ✔ |
-  | 01 | [백준 16929_Two Dots](https://www.acmicpc.net/problem/16929)  |  | ✔ | 
+  | 01 | [백준 16929_Two Dots](https://www.acmicpc.net/problem/16929)  | ✔ | ✔ | 
 
   ### 23.07.22 토요일
   
