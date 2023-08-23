@@ -161,7 +161,7 @@
   
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [백준 2234_성곽](https://www.acmicpc.net/problem/2234)  |  | ✔ |
+  | 00 | [백준 2234_성곽](https://www.acmicpc.net/problem/2234)  | ✔ | ✔ |
   | 01 | [백준 11559_Puyo Puyo](https://www.acmicpc.net/problem/11559)   | ✔ | ✔ | 
 
   
