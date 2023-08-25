@@ -243,6 +243,14 @@
   | :--: | :-----------:  | :-----:  | :-----:  | 
   | 00 | [백준 18808_스티커 붙이기](https://www.acmicpc.net/problem/18808)  |   | ✔ |
   | 01 | [백준 16397_탈출](https://www.acmicpc.net/problem/16397)   | ✔ | ✔ | 
+
+  ### 23.08.25 금요일
+  
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [SWEA 점심 식사시간](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl)  |   | |
+  | 01 | [백준 19236_청소년 상어](https://www.acmicpc.net/problem/19236)   | |  | 
+  
   </div>
   </details>
 
