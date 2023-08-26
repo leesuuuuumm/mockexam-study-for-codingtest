@@ -250,7 +250,15 @@
   | :--: | :-----------:  | :-----:  | :-----:  | 
   | 00 | [SWEA 점심 식사시간](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl)  |   | |
   | 01 | [백준 19236_청소년 상어](https://www.acmicpc.net/problem/19236)   | |  | 
-  
+
+### 23.08.26 토요일
+
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [백준 2635_치즈](https://www.acmicpc.net/problem/2636)  |   | |
+  | 01 | [백준 2931_가스관](https://www.acmicpc.net/problem/2931)   | |  | 
+
+
   </div>
   </details>
 
