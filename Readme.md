@@ -262,3 +262,17 @@
   </div>
   </details>
 
+ <details>
+  <summary>8주차</summary>
+  <div markdown="1">
+
+  ### 23.08.28 월요일
+  
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [백준 2146_다리 만들기](https://www.acmicpc.net/problem/2146)  |   |  |
+  | 01 | [백준 19237_어른 상어](https://www.acmicpc.net/problem/16397)   |  |  | 
+
+
+  </div>
+  </details>
