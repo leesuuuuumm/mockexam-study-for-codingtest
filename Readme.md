@@ -126,7 +126,7 @@
   
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [백준 1600_말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)  | ✔ | |
+  | 00 | [백준 1600_말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)  | ✔ | ✔ |
   | 01 | [17836_공주님을 구해라!](https://www.acmicpc.net/problem/17836)   | ✔ | ✔ | 
 
   </div>
@@ -281,7 +281,7 @@
 
   | 순번 | 문제    | 수민 |
   | :--: | :-----------:  | :-----:  |
-  | 00 | [백준 1600_말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)  |   | 
+  | 00 | [백준 1600_말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)  |  ✔ | 
   | 01 | [백준 14442_벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)    |  |
   
 
