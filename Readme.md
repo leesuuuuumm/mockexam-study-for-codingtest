@@ -258,7 +258,7 @@
 
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [백준 2635_치즈](https://www.acmicpc.net/problem/2636)  |   | ✔ |
+  | 00 | [백준 2635_치즈](https://www.acmicpc.net/problem/2636)  | ✔ | ✔ |
   | 01 | [백준 2931_가스관](https://www.acmicpc.net/problem/2931)   | |  | 
 
 
