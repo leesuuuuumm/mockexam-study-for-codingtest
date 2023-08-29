@@ -275,7 +275,7 @@
 
   | 순번 | 문제    | 유빈 |
   | :--: | :-----------:  | :-----:  |
-  | 00 | [백준 2635_치즈](https://www.acmicpc.net/problem/2636)  |   | 
+  | 00 | [백준 2635_치즈](https://www.acmicpc.net/problem/2636)  | ✔ | 
   | 01 | [백준 2580_스도쿠](https://www.acmicpc.net/problem/2580)    |  |
 
 
