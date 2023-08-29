@@ -27,8 +27,9 @@ bool inrange(int x, int y) {
 }
 void bfs(int x, int y) {
 
+	bool all_melted = true;
 	queue<pair<int, int>> q;
-	
+
 	q.push({ x,y });
 	visited[x][y] = true;
 
@@ -39,7 +40,7 @@ void bfs(int x, int y) {
 		q.pop();
 
 		for (int i = 0; i < 4; i++) {
-			int nx = a + dx[i]; 
+			int nx = a + dx[i];
 			int ny = b + dy[i];
 
 			if (inrange(nx, ny) && map[nx][ny] == '0' && !visited[nx][ny]) {
@@ -52,25 +53,29 @@ void bfs(int x, int y) {
 
 					if (inrange(nx2, ny2) && map[nx2][ny2] == '1') {
 						can_melt[nx2][ny2] = true;
+						all_melted = false;
 					}
 				}
 			}
 		}
 	}
 
+	if (all_melted) {
+		cout << times << "\n";
+		cout << ans;
+		exit(0);
+	}
+
 	ans = 0;
 
-
-	//³ìÀÎ´Ù.
 	for (int i = 1; i <= n; i++) {
 		for (int j = 1; j <= m; j++) {
 			if (can_melt[i][j]) {
-				map[i][j] = '0';
 				ans++;
+				map[i][j] = '0';
 			}
 		}
 	}
-	
 }
 void all_cheese_melt() {
 	//¸ðµç Ä¡Áî°¡ ³ì´Â´Ù.
@@ -81,31 +86,11 @@ void all_cheese_melt() {
 	bfs(1, 1);
 }
 
-void check_all_melt() {
-
-	bool all_melted = true;
-
-	for (int i = 1; i <= n; i++) {
-		for (int j = 1; j <= m; j++) {
-			if (map[i][j] == '1') {
-				all_melted = false;
-				break;
-			}
-		}
-	}
-
-	//´Ù ³ì¾Ò´Ù¸é
-	if (all_melted) {
-		cout << times << "\n" << ans << "\n";
-		exit(0);
-	}
-}
 void solution() {
 
 
-	for (times = 1;; times++) {
+	for (times = 0;; times++) {
 		all_cheese_melt();
-		check_all_melt();
 	}
 }
 
