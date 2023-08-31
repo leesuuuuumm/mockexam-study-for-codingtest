@@ -289,7 +289,7 @@
   
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [백준 2146_다리 만들기](https://www.acmicpc.net/problem/2146)  | ✔ |  |
+  | 00 | [백준 2146_다리 만들기](https://www.acmicpc.net/problem/2146)  |  |  |
   | 01 | [백준 19237_어른 상어](https://www.acmicpc.net/problem/16397)   | ✔ |  | 
 
 
