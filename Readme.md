@@ -296,8 +296,8 @@
   
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [백준 1726_로봇](https://www.acmicpc.net/problem/1726)  |  |  |
-  | 01 | [백준 19238_스타트 택시](https://www.acmicpc.net/problem/19238)   |  |  | 
+  | 00 | [백준 1726_로봇](https://www.acmicpc.net/problem/1726)  | ✔ |  |
+  | 01 | [백준 19238_스타트 택시](https://www.acmicpc.net/problem/19238)   | ✔ |  | 
 
 
 
