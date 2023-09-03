@@ -313,7 +313,7 @@
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
   | 00 | [백준 8972_미친 아두이노](https://www.acmicpc.net/problem/17143)   |  |  |
-  | 01 | [백준 17142_연구소3](https://www.acmicpc.net/problem/17142)   |  |  | 
+  | 01 | [백준 17142_연구소3](https://www.acmicpc.net/problem/17142)   | ✔ |  | 
   
 
   </div>
