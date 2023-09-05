@@ -321,7 +321,7 @@
 
   
  <details>
-  <summary>8주차</summary>
+  <summary>9주차</summary>
   <div markdown="1">
 
   ### 23.09.05 화요일
