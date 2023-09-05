@@ -297,7 +297,7 @@
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
   | 00 | [백준 1726_로봇](https://www.acmicpc.net/problem/1726)  | ✔ | ✔ |
-  | 01 | [백준 19238_스타트 택시](https://www.acmicpc.net/problem/19238)   | ✔ |  | 
+  | 01 | [백준 19238_스타트 택시](https://www.acmicpc.net/problem/19238)   | ✔ | ✔ | 
 
 
   ### 23.09.02 토요일
@@ -315,6 +315,24 @@
   | 00 | [백준 8972_미친 아두이노](https://www.acmicpc.net/problem/17143)   |  |  |
   | 01 | [백준 17142_연구소3](https://www.acmicpc.net/problem/17142)   | ✔ | ✔ | 
   
+
+  </div>
+  </details>
+
+  
+ <details>
+  <summary>8주차</summary>
+  <div markdown="1">
+
+  ### 23.09.05 화요일
+
+  (안 푼 문제 재차 확인용)
+  
+  | 순번 | 문제    | 수민 |
+  | :--: | :-----------:  | :-----:  |
+  | 00 | [백준 19237_어른상어](https://www.acmicpc.net/problem/19237)  |  | 
+  | 01 | [백준 17143_낚시왕](https://www.acmicpc.net/problem/19237) |  |
+
 
   </div>
   </details>
