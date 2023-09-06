@@ -333,6 +333,12 @@
   | 00 | [백준 19237_어른상어](https://www.acmicpc.net/problem/19237)  |  | 
   | 01 | [백준 17143_낚시왕](https://www.acmicpc.net/problem/19237) |  |
 
-
+  ### 23.09.06 수요일
+  
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [백준 16235_나무 재테크](https://www.acmicpc.net/problem/16235)   |  |  |
+  | 01 | [백준 21611_마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)   |  |  | 
+  
   </div>
   </details>
