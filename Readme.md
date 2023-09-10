@@ -351,8 +351,8 @@
 
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [백준 14891_톱니바퀴](https://www.acmicpc.net/problem/14891)   | ✔ |  |
-  | 01 | [백준 17822 원판돌리기](https://www.acmicpc.net/problem/17822)   | ✔ |  | 
+  | 00 | [백준 14891_톱니바퀴](https://www.acmicpc.net/problem/14891)   | ✔ |✔  |
+  | 01 | [백준 17822 원판돌리기](https://www.acmicpc.net/problem/17822)   | ✔ | ✔ | 
 
   ### 23.09.10 일요일
 
