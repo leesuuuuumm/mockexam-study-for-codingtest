@@ -331,7 +331,7 @@
   | 순번 | 문제    | 수민 |
   | :--: | :-----------:  | :-----:  |
   | 00 | [백준 19237_어른상어](https://www.acmicpc.net/problem/19237)  | ✔ | 
-  | 01 | [백준 17143_낚시왕](https://www.acmicpc.net/problem/19237) |  |
+  | 01 | [백준 17143_낚시왕](https://www.acmicpc.net/problem/17143) |  |
 
   ### 23.09.06 수요일
   
