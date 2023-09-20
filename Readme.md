@@ -383,8 +383,8 @@
 
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [백준 23290_마법사 상어와 복제](https://www.acmicpc.net/problem/23290)  |  |  |
-  | 01 | [백준 6593_상범 빌딩](https://www.acmicpc.net/problem/6593)   |  |  | 
+  | 00 | [백준 23290_마법사 상어와 복제](https://www.acmicpc.net/problem/23290)  |  | ✔ |
+  | 01 | [백준 6593_상범 빌딩](https://www.acmicpc.net/problem/6593)   |  | ✔ | 
 
 
   </div>
