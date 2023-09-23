@@ -393,6 +393,13 @@
   | 00 | [백준 16920_확장 게임](https://www.acmicpc.net/problem/16920)  |  |  |
   | 01 | [백준 20057_마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)   | ✔ |  | 
 
+### 23.09.23 토요일
+
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [백준 21608_상어 초등학](https://www.acmicpc.net/problem/21608)  |  |  |
+  | 01 | [백준 21610_마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)   | ✔ |  | 
+
 
   </div>
   </details>
