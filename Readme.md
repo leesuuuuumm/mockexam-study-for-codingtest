@@ -299,6 +299,86 @@
   | 00 | [백준 1726_로봇](https://www.acmicpc.net/problem/1726)  | ✔ | ✔ |
   | 01 | [백준 19238_스타트 택시](https://www.acmicpc.net/problem/19238)   | ✔ | ✔ | 
 
+   <details>
+  <summary>9주차</summary>
+  <div markdown="1">
+
+  ### 23.09.05 화요일
+
+  (안 푼 문제 재차 확인용)
+  
+  | 순번 | 문제    | 수민 |
+  | :--: | :-----------:  | :-----:  |
+  | 00 | [백준 19237_어른상어](https://www.acmicpc.net/problem/19237)  | ✔ | 
+  | 01 | [백준 17143_낚시왕](https://www.acmicpc.net/problem/17143) | ✔  |
+
+  ### 23.09.06 수요일
+  
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [백준 16235_나무 재테크](https://www.acmicpc.net/problem/16235)   | ✔ |  ✔ |
+  | 01 | [백준 21611_마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)   | ✔ | ✔ | 
+
+  ### 23.09.08 금요일
+  
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [백준 17837_새로운 게임2](https://www.acmicpc.net/problem/17837)   | ✔ | ✔ |
+  | 01 | [백준 20058_마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)   | ✔ | ✔ | 
+
+   ### 23.09.09 토요일
+
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [백준 14891_톱니바퀴](https://www.acmicpc.net/problem/14891)   | ✔ | ✔ |
+  | 01 | [백준 17822 원판돌리기](https://www.acmicpc.net/problem/17822)   | ✔ | ✔ | 
+
+  ### 23.09.10 일요일
+
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [백준 20055_컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)  | ✔ | ✔  |
+  | 01 | [백준 20056_마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)   | ✔ | ✔ | 
+  
+  </div>
+  </details>
+
+   <details>
+  <summary>10주차</summary>
+  <div markdown="1">
+
+  ### 23.09.18 월요일 / 23.09.19 화요일 / 23.09.21 목요일 
+
+  * 푼 문제 복습차원 다시 푸는 요일
+
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [백준 2931_가스관](https://www.acmicpc.net/problem/2931)  |  |  |
+  | 01 | [백준 1737_욕심쟁이 판다](https://www.acmicpc.net/problem/1937)  |  |  |
+  | 02 | [백준 5913_준규와 사과](https://www.acmicpc.net/problem/5913)  |  |  | 
+  | 03 | [백준 2234_성곽](https://www.acmicpc.net/problem/2234)  |  |  |
+
+  ### 23.09.20 수요일
+
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [백준 23290_마법사 상어와 복제](https://www.acmicpc.net/problem/23290)  | ✔ | ✔ |
+  | 01 | [백준 6593_상범 빌딩](https://www.acmicpc.net/problem/6593)   | ✔ | ✔ | 
+
+  ### 23.09.22 금요일
+
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [백준 16920_확장 게임](https://www.acmicpc.net/problem/16920)  |  |  |
+  | 01 | [백준 20057_마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)   | ✔ |  | 
+
+  ### 23.09.23 토요일
+
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [코드트리 중력과 변화는 법칙](https://www.codetree.ai/training-field/search/problems/gravity-and-changing-law/description?page=2&pageSize=20&tags=BFS%2C0-1+BFS)  |  |  |
+  | 01 | [백준 17825_주사위 윷놀이](https://www.acmicpc.net/problem/17825)   |  |  | 
+
 
 
 
