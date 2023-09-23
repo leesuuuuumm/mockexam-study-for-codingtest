@@ -386,12 +386,19 @@
   | 00 | [백준 23290_마법사 상어와 복제](https://www.acmicpc.net/problem/23290)  | ✔ | ✔ |
   | 01 | [백준 6593_상범 빌딩](https://www.acmicpc.net/problem/6593)   | ✔ | ✔ | 
 
-### 23.09.22 금요일
+  ### 23.09.22 금요일
 
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
   | 00 | [백준 16920_확장 게임](https://www.acmicpc.net/problem/16920)  |  |  |
   | 01 | [백준 20057_마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)   | ✔ |  | 
+
+  ### 23.09.23 토요일
+
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [코드트리 중력과 변화는 법칙](https://www.codetree.ai/training-field/search/problems/gravity-and-changing-law/description?page=2&pageSize=20&tags=BFS%2C0-1+BFS)  |  |  |
+  | 01 | [백준 17825_주사위 윷놀이](https://www.acmicpc.net/problem/17825)   |  |  | 
 
 
   </div>
