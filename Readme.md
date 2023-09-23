@@ -300,10 +300,6 @@
   | 01 | [백준 19238_스타트 택시](https://www.acmicpc.net/problem/19238)   | ✔ | ✔ | 
 
 
-  ### 23.09.02 토요일
-  
-교](https://www.acmicpc.net/problem/21608)  |  |  |
-  | 01 | [백준 21610_마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)   | ✔ |  | 
 
 
   </div>
