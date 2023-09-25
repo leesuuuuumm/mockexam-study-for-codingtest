@@ -377,7 +377,7 @@
   | 00 | [백준 2931_가스관](https://www.acmicpc.net/problem/2931)  |  |  |
   | 01 | [백준 1737_욕심쟁이 판다](https://www.acmicpc.net/problem/1937)  |  |  |
   | 02 | [백준 5913_준규와 사과](https://www.acmicpc.net/problem/5913)  |  |  | 
-  | 03 | [백준 2234_성곽](https://www.acmicpc.net/problem/2234)  |  |  |
+  | 03 | [백준 2234_성곽](https://www.acmicpc.net/problem/2234)  | ✔ |  |
 
   ### 23.09.20 수요일
 
@@ -397,8 +397,8 @@
 
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [백준 21608_상어 초등학교](https://www.acmicpc.net/problem/21608)  |  |  |
-  | 01 | [백준 21610_마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)   |  |  | 
+  | 00 | [백준 21608_상어 초등학교](https://www.acmicpc.net/problem/21608)  | ✔ |  |
+  | 01 | [백준 21610_마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)   | ✔ |  | 
   
 
   ### 23.09.24 일요일
