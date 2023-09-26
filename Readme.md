@@ -364,7 +364,7 @@
   </div>
   </details>
 
-   <details>
+  <details>
   <summary>10주차</summary>
   <div markdown="1">
 
@@ -411,4 +411,19 @@
 
   </div>
   </details>
+<details>
+  <summary>11주차</summary>
+  <div markdown="1">
 
+  ### 23.09.26 화요일
+
+
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [백준 6087_레이저 통신](https://www.acmicpc.net/problem/6087)  |  |  |
+  | 01 | [백준 9944_NXM 보드 완주하기](https://www.acmicpc.net/problem/9944)  |  |  |
+
+
+
+  </div>
+  </details>
