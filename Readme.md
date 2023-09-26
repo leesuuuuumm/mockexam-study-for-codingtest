@@ -375,7 +375,7 @@
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
   | 00 | [백준 2931_가스관](https://www.acmicpc.net/problem/2931)  |  |  |
-  | 01 | [백준 1737_욕심쟁이 판다](https://www.acmicpc.net/problem/1937)  |  |  |
+  | 01 | [백준 1737_욕심쟁이 판다](https://www.acmicpc.net/problem/1937)  | ✔ |  |
   | 02 | [백준 5913_준규와 사과](https://www.acmicpc.net/problem/5913)  |  |  | 
   | 03 | [백준 2234_성곽](https://www.acmicpc.net/problem/2234)  | ✔ |  |
 
