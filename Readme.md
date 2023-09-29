@@ -422,6 +422,7 @@
   | :--: | :-----------:  | :-----:  | :-----:  | 
   | 00 | [백준 6087_레이저 통신](https://www.acmicpc.net/problem/6087)  | ✔ | ✔ |
   | 01 | [백준 9944_NXM 보드 완주하기](https://www.acmicpc.net/problem/9944)  |  |  |
+
   
   ### 23.09.28 목요일
 
@@ -430,6 +431,15 @@
   | :--: | :-----------:  | :-----:  | :-----:  | 
   | 00 | [코드트리 코드트리 빵](https://www.codetree.ai/training-field/frequent-problems/problems/codetree-mon-bread/description?page=1&pageSize=20)  |  |  |
   | 01 | [코드트리 병원 거리 최소화하기](https://www.codetree.ai/training-field/frequent-problems/problems/min-of-hospital-distance?page=2&pageSize=20)  | ✔ |  |
+
+
+  ### 23.09.29 금요일
+
+
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [코드트리 싸움](https://www.codetree.ai/training-field/frequent-problems/problems/battle-ground/description?page=1&pageSize=20)  |  |  |
+  | 01 | [코드트리 토스트 계란틀](https://www.codetree.ai/training-field/frequent-problems/problems/toast-eggmold?page=2&pageSize=20)  |  |  |
 
 
 
