@@ -439,7 +439,7 @@
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
   | 00 | [코드트리 싸움땅](https://www.codetree.ai/training-field/frequent-problems/problems/battle-ground/description?page=1&pageSize=20)  | ✔ | ✔ |
-  | 01 | [코드트리 토스트 계란틀](https://www.codetree.ai/training-field/frequent-problems/problems/toast-eggmold?page=2&pageSize=20)  |  | ✔  |
+  | 01 | [코드트리 토스트 계란틀](https://www.codetree.ai/training-field/frequent-problems/problems/toast-eggmold?page=2&pageSize=20)  | ✔ | ✔  |
 
 
  ### 23.09.30 토요일 (🎉)
