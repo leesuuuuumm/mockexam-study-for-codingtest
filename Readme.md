@@ -448,7 +448,7 @@
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
   | 00 | [코드트리 나무박멸](https://www.codetree.ai/training-field/frequent-problems/problems/tree-kill-all/description?page=1&pageSize=20)  | ✔ |   |
-  | 01 | [코드트리 바이러스 실험](https://www.codetree.ai/training-field/frequent-problems/problems/virus-experiment/description?page=2&pageSize=20)  |  |  |
+  | 01 | [코드트리 바이러스 실험](https://www.codetree.ai/training-field/frequent-problems/problems/virus-experiment/description?page=2&pageSize=20)  | ✔ |  |
 
 
   </div>
