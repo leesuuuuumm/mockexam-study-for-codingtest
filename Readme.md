@@ -451,5 +451,13 @@
   | 01 | [코드트리 바이러스 실험](https://www.codetree.ai/training-field/frequent-problems/problems/virus-experiment/description?page=2&pageSize=20)  | ✔ |  |
 
 
+ ### 23.10.01 일요일  
+
+  | 순번 | 문제    | 유빈 | 수민 |
+  | :--: | :-----------:  | :-----:  | :-----:  | 
+  | 00 | [코드트리 예술성](https://www.codetree.ai/training-field/frequent-problems/problems/artistry/description?page=1&pageSize=20)  |  |   |
+  | 01 | [코드트리 바이러스 백신](https://www.codetree.ai/training-field/frequent-problems/problems/vaccine-for-virus/description?page=2&pageSize=20)  |  |  |
+
+
   </div>
   </details>
