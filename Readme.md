@@ -405,8 +405,7 @@
 
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [코드트리 중력과 변화는 법칙](https://www.codetree.ai/training-field/search/problems/gravity-and-changing-law/description?page=2&pageSize=20&tags=BFS%2C0-1+BFS)  |  |  |
-  | 01 | [백준 17825_주사위 윷놀이](https://www.acmicpc.net/problem/17825)   |  |  | 
+  | 00 | [백준 17825_주사위 윷놀이](https://www.acmicpc.net/problem/17825)   |  |  | 
 
 
   </div>
