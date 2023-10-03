@@ -468,7 +468,7 @@
 
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [코드트리 꼬리잡기놀이](https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play/description?page=1&pageSize=20)  |  |  |
+  | 00 | [코드트리 꼬리잡기놀이](https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play/description?page=1&pageSize=20)  | ✔ |  |
   | 01 | [코드트리 팩맨](https://www.codetree.ai/training-field/frequent-problems/problems/pacman/description?page=1&pageSize=20)  | ✔ |  |
   | 02 | [코드트리 회전하는 빙하](https://www.codetree.ai/training-field/frequent-problems/problems/rotating-glacier?page=2&pageSize=20)  | ✔ |  |
   | 03| [코드트리 술래잡기](https://www.codetree.ai/training-field/frequent-problems/problems/hide-and-seek/description?page=1&pageSize=20)  | ✔ |  |
