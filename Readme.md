@@ -472,7 +472,7 @@
   | 01 | [코드트리 팩맨](https://www.codetree.ai/training-field/frequent-problems/problems/pacman/description?page=1&pageSize=20)  | ✔ |  |
   | 02 | [코드트리 회전하는 빙하](https://www.codetree.ai/training-field/frequent-problems/problems/rotating-glacier?page=2&pageSize=20)  | ✔ |  |
   | 03| [코드트리 술래잡기](https://www.codetree.ai/training-field/frequent-problems/problems/hide-and-seek/description?page=1&pageSize=20)  | ✔ |  |
-  | 04 | [코드트리 정육면체 한번 더 굴리기](https://www.codetree.ai/training-field/frequent-problems/problems/cube-rounding-again?page=1&pageSize=20)  | ✔ |  |
+  | 04 | [코드트리 정육면체 한번 더 굴리기](https://www.codetree.ai/training-field/frequent-problems/problems/cube-rounding-again?page=1&pageSize=20)  | ✔ | ✔ |
   | 05 | [코드트리 나무 타이쿤](https://www.codetree.ai/training-field/frequent-problems/problems/tree-tycoon?page=1&pageSize=20)  | ✔ |  |
 
  ### 23.10.03 화요일  
@@ -480,7 +480,7 @@
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
   | 00 | [코드트리 메이즈 러너](https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner)  |  |   |
-  | 01 | [코드트리 색깔 폭탄](https://www.codetree.ai/training-field/frequent-problems/problems/colored-bomb/description?page=1&pageSize=20&tier=1%2C15)  |  |   |
+  | 01 | [코드트리 색깔 폭탄](https://www.codetree.ai/training-field/frequent-problems/problems/colored-bomb/description?page=1&pageSize=20&tier=1%2C15)  |  | ✔  |
 
 
   </div>
