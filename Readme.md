@@ -428,7 +428,7 @@
 
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
-  | 00 | [코드트리 코드트리 빵](https://www.codetree.ai/training-field/frequent-problems/problems/codetree-mon-bread/description?page=1&pageSize=20)  |  |  |
+  | 00 | [코드트리 코드트리 빵](https://www.codetree.ai/training-field/frequent-problems/problems/codetree-mon-bread/description?page=1&pageSize=20)  | ✔ |  |
   | 01 | [코드트리 병원 거리 최소화하기](https://www.codetree.ai/training-field/frequent-problems/problems/min-of-hospital-distance?page=2&pageSize=20)  | ✔ | ✔ |
 
 
