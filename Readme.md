@@ -480,7 +480,7 @@
   | 순번 | 문제    | 유빈 | 수민 |
   | :--: | :-----------:  | :-----:  | :-----:  | 
   | 00 | [코드트리 메이즈 러너](https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner)  |  |   |
-  | 01 | [코드트리 색깔 폭탄](https://www.codetree.ai/training-field/frequent-problems/problems/colored-bomb/description?page=1&pageSize=20&tier=1%2C15)  |  | ✔  |
+  | 01 | [코드트리 색깔 폭탄](https://www.codetree.ai/training-field/frequent-problems/problems/colored-bomb/description?page=1&pageSize=20&tier=1%2C15)  | ✔ | ✔  |
 
 
   </div>
